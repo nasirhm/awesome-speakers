@@ -285,6 +285,12 @@ https://twitter.com/lisi_linhart
 
 ### Vienna
 
+<img src="https://twitter.com/bolonio/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Adrián Bolonio**\
+Topics: React, JavaScript, Accessibility\
+https://twitter.com/bolonio
+
 <img src="https://twitter.com/sharifsbeat/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Ali Sharif**\
@@ -400,6 +406,16 @@ https://twitter.com/sambego
 **Radoslav Stankov**\
 Topics: React, Redux, Ruby, Testing, GraphQL\
 https://twitter.com/rstankov
+
+## Czech Republic 🇨🇿
+
+### Prague
+
+<img src="https://twitter.com/kettanaito/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Artem Zakharchenko**\
+Topics: React, Forms, CSS Grid\
+https://twitter.com/kettanaito
 
 ## Denmark 🇩🇰
 
@@ -1079,7 +1095,7 @@ https://twitter.com/FilipaLacerda
 <img src="https://twitter.com/sericaia/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Daniela Matos de Carvalho**\
-Topics: HTTP/2, JavaScript, React, Offline First\
+Topics: Web protocols, Web security, JavaScript, React, Node.js, Offline First\
 https://twitter.com/sericaia
 
 <img src="https://twitter.com/daviddias/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
@@ -1279,14 +1295,6 @@ https://twitter.com/mourner
 **Yuri Artyukh**\
 Topics: HTML, CSS, JavaScript, WebGL\
 https://twitter.com/akella
-
-### Poltava
-
-<img src="https://twitter.com/kettanaito/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
-
-**Artem Zakharchenko**\
-Topics: React, Forms, CSS Grid\
-https://twitter.com/kettanaito
 
 ### Vinnytsia
 
